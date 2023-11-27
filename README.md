@@ -94,4 +94,3 @@ On Assignment Tab.
 Assignments 5
 
 Add JSON Schema Validation for POST, PUT Request for the Restful BOOker.
-![image](https://github.com/Sarakovadiya/API-Automation-RestAssured/assets/136258292/185dc2e3-0dc3-4a02-96f2-aa310a46fd85)
